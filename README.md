@@ -1,2 +1,2 @@
 # hgw-scrapybot
-A web crawler for extracting hungrygowhere list of restaurants and related reviews.
+A web crawler to extract a list of restaurants and related reviews from https://www.hungrygowhere.com/
